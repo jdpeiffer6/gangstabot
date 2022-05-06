@@ -1,0 +1,3 @@
+[submodule "auto_gangster"]
+	path = auto_gangster
+	url = git@github.com:kwsp/auto_gangster.git

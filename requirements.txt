@@ -1,0 +1,4 @@
+-r ./auto_gangster/requirements.txt
+slack_bolt
+requests
+opencv-python
